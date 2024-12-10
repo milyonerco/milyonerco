@@ -37,3 +37,57 @@ h1 {
   font-size: 20px;
   line-height: 1.8;
 }
+
+.programlar {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.product-1 {
+  display: block;
+  margin: 40px auto;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.15);
+  padding: 30px 0px;
+  border-radius: 25px;
+}
+
+.product-1 img {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+.product-1 h2 {
+  width: 80%;
+  font-size: 19px;
+  letter-spacing: -1px;
+  text-align: center;
+  display: block;
+  margin: 20px auto;
+}
+
+.product-1 p {
+  width: 80%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.product-1 button {
+  display: block;
+  margin: 0 auto;
+  padding: 20px 25%;
+  background-color: black;
+  border: none;
+  color: white;
+  border-radius: 50px;
+  font-weight: 700;
+  margin-top: 25px;
+  cursor: pointer;
+}
