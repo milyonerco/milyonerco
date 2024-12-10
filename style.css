@@ -91,3 +91,7 @@ h1 {
   margin-top: 25px;
   cursor: pointer;
 }
+
+.buy {
+  text-decoration: none;
+}
