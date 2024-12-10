@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  background-color: black;
+  color: white;
+  font-family: "Poppins", Helvetica, sans-serif;
+}
+
+.logo {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 70px;
+}
+
+.texts {
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 120px;
+}
+
+h1 {
+  font-size: 60px;
+  width: 512px;
+}
+
+.yoksa {
+  font-weight: 300;
+  font-size: 45px;
+  line-height: 3.5;
+}
+
+.main-paragraph {
+  font-size: 37px;
+  line-height: 1.8;
+}
